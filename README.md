@@ -35,7 +35,7 @@ $ sbt test
 To add the `angular-anchor-scroll` binding to your project, add the following to your build.sbt:  
 
 ```sbt
-libraryDependencies += "io.scalajs.npm" %%% "angular-anchor-scroll" % "1.0.0-1"
+libraryDependencies += "io.scalajs.npm" %%% "angular-anchor-scroll" % "0.4.0-pre1"
 ```
 
 Optionally, you may add the Sonatype Repository resolver:
